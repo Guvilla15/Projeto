@@ -15,5 +15,21 @@ console.log(number.toFixed(2).replace(".",","))*/
 console.log(word.toLowerCase())
 console.log(word.toUpperCase())*/
 
+/*let phrase = "Eu quero viver o amor!"
+let myArray = phrase.split("")
+console.log(myArray);*/
+
+/*let phrase = "Eu quero viver o amor"
+console.log(phrase.includes("amém"))*/
+
+/*let myArray = new Array(10)
+let myarray = ['a','b','c']
+console.log(myArray)
+console.log(myarray)*/
+
+/*console.log(['a','b','c','d'.length])*/
+
+
+
 
 
